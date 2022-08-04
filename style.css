@@ -112,8 +112,9 @@ font-size: small;
     transition: 0.5s;
 }
 .btn:hover {
-    background-color:  #EAF6F6 ;
+    background-color: #ffffff  ;
     color: #66BFBF;
     padding: 2px;
+    text-decoration: solid;
 }
 
